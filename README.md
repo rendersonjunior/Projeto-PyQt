@@ -1,2 +1,2 @@
 # Projeto-PyQt
-Primeira aplicação montada com PyQt
+Hello PyQt
